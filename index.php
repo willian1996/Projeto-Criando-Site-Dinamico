@@ -11,6 +11,10 @@
     <title>Projeto 01</title>
 </head>
 <body>
+<?php
+//    echo $_GET['url'];
+    
+?>
     
     <header>
         <div class="center">
